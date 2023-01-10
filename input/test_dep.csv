@@ -1,0 +1,10 @@
+Source, Destination
+Target,Leavey Library
+Target,KFC
+Target,Ralphs
+Target,Parkside Dining Hall
+Leavey Library,KFC
+Leavey Library,Ralphs
+Leavey Library,Parkside Dining Hall
+KFC,Ralphs
+Ralphs,Parkside Dining Hall
