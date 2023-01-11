@@ -1,6 +1,6 @@
-# EE538 Final Project - Spring 2022 - TrojanMap
+# TrojanMap
 
-## TrojanMap
+## Description
 
 This project focuses on using data structures in C++ and implementing various graph algorithms to build a map application.
 
